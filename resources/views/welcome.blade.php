@@ -131,7 +131,356 @@
         </div>
       </header>
 
+    <!-- Portfolio Grid -->
+    <section class="bg-light" id="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Our Services</h2>
+            <h3 class="section-subheading text-muted">We provide professional Information Technolgy Services to move your business forward.</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="../imgs/host.jpg" alt="">
+            </div>
+            <div class="portfolio-caption">
+              <h4>Website Design & Hosting</h4>
+              <p class="text-muted">We have expertise in professional website design and hosting. Our professional experienced designers can design both interactive websites and static websites for co-operate, business and organizations depending on the client’s specifications.</p>
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
+            <div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                <i class="fa fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="../imgs/software.jpg" alt="">
+          </div>
+          <div class="portfolio-caption">
+            <h4>Software Development</h4>
+            <p class="text-muted">We develop systems for schools, hotels, colleges, small and large business organizations and custom system according to the client’s specifications. We also have ready made systems in our store for sale to a client in need.</p>
+          </p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <div class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="../imgs/security.jpg" alt="">
+        </div>
+        <div class="portfolio-caption">
+          <h4>Web Security</h4>
+          <p class="text-muted">Website security means protection from the inside out as well as the outside in. We have the technology to do it all — daily scanning, automatic malware removal, web app firewall, a global CDN for a blazingly fast website and our support team is here for you 24/7.</p>
+        </p>
+      </div>
+    </div>
 
+    {{-- Add --}}
+
+
+  </div>
+
+  <div class="row">
+    <div class="col-md-4 col-sm-6 portfolio-item">
+      <div class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content">
+            <i class="fa fa-plus fa-3x"></i>
+          </div>
+        </div>
+        <img class="img-fluid" src="../imgs/computer.jpg" alt="">
+      </div>
+      <div class="portfolio-caption">
+        <h4>Computer Maintenance</h4>
+        <p class="text-muted">We are the center for Computer maintenance and repair as well as all computer peripherals supply and installations in Tanzania and accross East Africa as whole. We have number of experienced professional computer engineers to ensure the provision of a quality and reliable services ever.</p>
+      </p>
+    </p>
+  </div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item">
+  <div class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
+    <div class="portfolio-hover">
+      <div class="portfolio-hover-content">
+        <i class="fa fa-plus fa-3x"></i>
+      </div>
+    </div>
+    <img class="img-fluid" src="../imgs/network.jpg" alt="">
+  </div>
+  <div class="portfolio-caption">
+    <h4>Network Installation & Troubleshooting</h4>
+    <p class="text-muted">Networking is among the very popular service in IT and also among the service that need expertise to perform. We have long time experienced network engineers who can perform this task from Network surveying, Network cabling, installation of hardware and configuration of routing options.</p>
+  </p>
+</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 portfolio-item">
+  <div class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+    <div class="portfolio-hover">
+      <div class="portfolio-hover-content">
+        <i class="fa fa-plus fa-3x"></i>
+      </div>
+    </div>
+    <img class="img-fluid" src="../imgs/training.jpg" alt="">
+  </div>
+  <div class="portfolio-caption">
+    <h4>Training and Consultation</h4>
+    <p class="text-muted">We have professional trainers who are very wellÂ experienced to conduct both indoor and outdoor training mostly for organization staffs. we have very well arranged programs for staffs depending on their level from COMPUTER BASICS, COMPUTER APPLICATIONS, ONLINE MARKETING.</p>
+  </p>
+</p>
+</div>
+</div>
+
+{{-- Add --}}
+
+
+</div>
+</div>
+
+</section>
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <span class="copyright">Designed By Natma Tech &copy copyright {{ date('Y') }}</span>
+      </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <li class="list-inline-item">
+            <a href="#">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            <a href="#">Privacy Policy</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#">Terms of Use</a>
+          </li>
+          <li class="list-inline-item">
+          {{-- <a href="{{ route('login') }}" style="color: black; padding-left: 50px;">Login</a> --}}
+
+
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Portfolio Modals -->
+
+<!-- Modal 1 -->
+<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <h3>Website Design & Hosting</h3>
+              <p class="item-intro text-muted"></p>
+              <img class="img-fluid d-block mx-auto" src="../imgs/host1.jpg" alt="">
+              <p>We have expertise in professional website design and hosting. Our professional experienced designers can design both interactive websites and static websites for co-operate, business and organizations depending on the client’s specifications</p>
+              <p>We also host websites in a very competitive rates and our server are guaranteed maximum security, control panel for users and 24/7 support to our clients. Try our website design and hosting service today and you will never regreat</p>
+
+              <button class="btn btn-primary" data-dismiss="modal" type="button">
+                <i class="fa fa-times"></i>
+                Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 2 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h3>Software Development</h3>
+                <p class="item-intro text-muted"></p>
+                <img class="img-fluid d-block mx-auto" src="../imgs/software3.jpg" alt="">
+                <p>We develop systems for schools, hotels, colleges, small and large business organizations and custom system according to the client’s specifications. We also have ready made systems in our store for sale to a client in need. The available ready made systems in store right now are theÂ STUDENT MANAGEMENT SYSTEM and theÂ STUDENTS LIBRARY SYSTEM (Available to be used ONLINE AND OFFLINE)</p>
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fa fa-times"></i>
+                  Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 3 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h3>Web Security</h3>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" src="../imgs/security1.jpg" alt="">
+                  <p>Website security means protection from the inside out as well as the outside in. We have the technology to do it all — daily scanning, automatic malware removal, web app firewall, a global CDN for a blazingly fast website and our support team is here for you 24/7.</p>
+                </p>
+
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fa fa-times"></i>
+                  Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 4 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h3>Computer Maintenance</h3>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" src="../imgs/computer12.jpg" alt="">
+                  <p>We are the center for Computer maintenance and repair as well as all computer peripherals supply and installations in Tanzania and accross East Africa as whole. We have number of experienced professional computer engineers to ensure the provision of a quality and reliable services ever.</p><p>
+
+                  We do both Reactive computer maintenance and Preventive maintenance; The Preventive maintenance is specifically for companies and organizations with a maintenance contract with us to perform the maintenance after a certain period of time. but Reactive maintenance is for both individuals and companies or organizations, it is done when a problem has noticed.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal 5 -->
+      <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+              <div class="lr">
+                <div class="rl"></div>
+              </div>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-8 mx-auto">
+                  <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h3>Network Installation & Troubleshooting</h3>
+                    <p class="item-intro text-muted"></p>
+                    <img class="img-fluid d-block mx-auto" src="../imgs/network1.jpg" alt="">
+                    <p>Networking is among the very popular service in IT and also among the service that need expertise to perform. We have long time experienced network engineers who can perform this task from Network surveying, Network cabling, installation of hardware and configuration of routing options. We do networking in all standards from small companies to large organizations or institutions using variety of network devices from the leading brands in the industry.</p>
+
+                    <button class="btn btn-primary" data-dismiss="modal" type="button">
+                      <i class="fa fa-times"></i>
+                      Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal 6 -->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                  <div class="rl"></div>
+                </div>
+              </div>
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-8 mx-auto">
+                    <div class="modal-body">
+                      <!-- Project Details Go Here -->
+                      <h3>Training and Consultation</h3>
+                      <p class="item-intro text-muted"></p>
+                      <img class="img-fluid d-block mx-auto" src="../imgs/training1.jpg" alt="">
+                      <p>We have professional trainers who are very wellÂ experienced to conduct both indoor and outdoor training mostly for organization staffs. we have very well arranged programs for staffs depending on their level from COMPUTER BASICS, COMPUTER APPLICATIONS, ONLINE MARKETING etc. Contact us for more information about our TRAINING PROGRAM.</p>
+
+                      <button class="btn btn-primary" data-dismiss="modal" type="button">
+                        <i class="fa fa-times"></i>
+                        Close</button>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
       <!-- Bootstrap core JavaScript -->
           <script src="../css/vendor/jquery/jquery.min.js"></script>
           <script src="../css/vendor/popper/popper.min.js"></script>
