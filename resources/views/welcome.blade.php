@@ -374,6 +374,219 @@
     </div>
   </section>
 
+    <!-- Team -->
+  <section class="bg-light" id="team" style="padding-top: 50px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Our Amazing Team</h2>
+          <h3 class="section-subheading text-muted">Success of Company as Been motivated and inspired by the team members who participate fully.</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+            <h4>Masoud M. Masoud</h4>
+            <p class="text-muted">CEO</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+            <h4>Nasra Abas</h4>
+            <p class="text-muted">Software Engineering Manager</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
+            <h4>Feisal Mombo</h4>
+            <p class="text-muted">Business Manager</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
+            <h4>Hatibu Mungia</h4>
+            <p class="text-muted">Networking Manager</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
+            <h4>Mwatum Mmbaga</h4>
+            <p class="text-muted">Lead Developer</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="" alt="">
+            <h4>Al-amin Msangi</h4>
+            <p class="text-muted">Developer</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+            <h4>Michel Peter</h4>
+            <p class="text-muted">Developer</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+            <h4>Clement Minje</h4>
+            <p class="text-muted">Designer</p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+
+
+      </div>
+    
+  </section>
+
+  <!-- Team -->
+
 
 <!-- Footer -->
 <footer>
