@@ -588,6 +588,66 @@
   <!-- Team -->
 
 
+    <!-- Contact -->
+  <section id="contact" style="background-color: #3175B0; padding-top:40px; ">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Contact Us</h2>
+          <div class="" style="color: white;">
+           <p> P.O. BOX 1196,</p>
+           <p> Dodoma.</p>
+           <p> Phone: +255766242951</p>
+           <p> Phone: +255786447520</p>
+           <p>info@natmatech.co.tz </p>
+           <p> PLOT No. 73 BLOCK F Kisasa B Center.</p>
+           <p>Dar es Salaam road near Martin Luther School or Nesuda Dispensary opposite Maria Dematias</p>
+         </div>
+       </div>
+     </div>
+     <br>
+     @include('msgs.success')
+     <br>
+     <div class="row">
+      <div class="col-lg-12">
+        <form  method="POST" action="/comment/validate" method="POST" novalidate>
+          {{ csrf_field() }}
+          <div class="row">
+            <div class="col-md-6" >
+              <div class="form-group">
+                <input class="form-control" id="name" type="text" placeholder="Your Name *" name="name" >
+                
+              </div>
+              <div class="form-group">
+                <input class="form-control" id="email" type="email" placeholder="Your Email *"  name="email" required>
+                
+              </div>
+              <div class="form-group">
+                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *"  name="phone" required>
+                
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <textarea class="form-control" id="message" placeholder="Your Message *"  name="body" required></textarea>
+
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-lg-12 text-center">
+              <div id="success"></div>
+              <button class="btn btn-xl" type="submit">Send Message</button>
+            </div>
+          </div>
+        </form>
+      </div>
+      
+    </div>
+  </div>
+
+</section>
+
+
 <!-- Footer -->
 <footer>
   <div class="container">
