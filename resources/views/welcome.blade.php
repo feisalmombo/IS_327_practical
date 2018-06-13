@@ -305,6 +305,76 @@
 
 </div>
 </section>
+
+<!-- About -->
+<section id="about" style="padding-top: 20px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">About Us</h2>
+        <h3 class="section-subheading text-muted"></h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="timeline">
+          <li>
+            <div class="timeline-image">
+              <img class="rounded-circle img-fluid" src="../imgs/1.jpg" alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>2013-2014</h4>
+                <h4 class="subheading">Our Humble Beginnings</h4>
+              </div>
+              <div class="timeline-body">
+                <p class="text-muted">Natma tech was started its operation in 2010 where its first release and registered as an independent company in 2017 with the release of a desktop application called celliot</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <img class="rounded-circle img-fluid" src="../imgs/3.jpg"  alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>2017</h4>
+                <h4 class="subheading">Transition to Full Service</h4>
+              </div>
+              <div class="timeline-body">
+                <p class="text-muted">Natma tech initialy begun with development of desktop apps and system development, now the company transit to full It services including security, computer network maintenance, networking and consultations</p>
+              </div>
+            </div>
+          </li>
+          <li>
+
+            <div class="timeline-image">
+              <img class="rounded-circle img-fluid" src="../imgs/4.jpg" alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>2016</h4>
+                <h4 class="subheading">Phase Two Expansion</h4>
+              </div>
+              <div class="timeline-body">
+                <p class="text-muted">Natma tech company is based in provision of quality services and full time support to its clients confidently mainly on working on customers suggestions and reports.</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>Be Part
+                <br>Of Our
+                <br>Story!</h4>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
 <!-- Footer -->
 <footer>
   <div class="container">
