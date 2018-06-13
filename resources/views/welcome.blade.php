@@ -681,7 +681,7 @@
             <a href="#">Terms of Use</a>
           </li>
           <li class="list-inline-item">
-          {{-- <a href="{{ route('login') }}" style="color: black; padding-left: 50px;">Login</a> --}}
+          <a href="{{ route('login') }}" style="color: black; padding-left: 50px;">Login</a> 
 
 
           </li>
