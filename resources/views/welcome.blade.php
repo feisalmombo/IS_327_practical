@@ -249,6 +249,62 @@
 </div>
 
 </section>
+
+<!-- Services -->
+<section id="services" style="padding-top: 20px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Our Products</h2>
+        <h3 class="section-subheading text-muted">Only Quality Products.</h3>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-md-4">
+        <img src="../imgs/fiber.jpg"  class="img-responsive img-rounded">
+
+        <h4 class="service-heading">Fiber</h4>
+        <p class="text-muted">With data packets travelling at the speed of light, our fiber network is available to ensure our customers to get seamless and reliable connection using light as a medium.</p>
+      </p>
+    </div>
+    <div class="col-md-4">
+      <img src="../imgs/router.jpg" class="img-responsive" >
+      <h4 class="service-heading">Routers & Switches</h4>
+      <p class="text-muted">C1921 Modular Router, 2 GE, 2 EHWIC slots, 512DRAM, IP Base: AC Power Cord (UK), C13, BS 1363, 2.5m
+        Blank faceplate for HWIC slot on Cisco ISR
+        Cisco Config Pro Express on Router Flash
+        IP Base License  for Cisco 1900
+        Cisco 1900 IOS UNIVERSAL.</p>
+      </div>
+      <div class="col-md-4">
+        <img src="../imgs/intergrate.jpg">
+        <h4 class="service-heading">System integration</h4>
+        <p class="text-muted">NATMA TECH system integration services bring together voice, data and video communications into one system and ensuring that they all function together as one system. This results in better productivity and cost-efficiency of your stuff</p>
+      </div>
+      <div class="col-md-4">
+        <img src="../imgs/ecommace.png"  class="img-responsive img-rounded">
+
+        <h4 class="service-heading">eCommerce Software</h4>
+        <p class="text-muted">If you can’t measure it, you can’t manage it.” - Peter Drucker. 
+          As an eCommerce Manager, it’s your job to ensure revenue is consistently growing, and make actionable decisions based on web analytics data. We’ll help you move past basic Google Analytics to understand how shoppers are currently using your site, where challenges to conversions exist, and how your site needs to improve to drive more revenue</p>
+        </p>
+      </div>
+      <div class="col-md-4">
+        <img src="../imgs/sme.jpg">
+        <h4 class="service-heading">Small and Medium Enterprise Applications</h4>
+        <p class="text-muted">NATMA TECH develop Softwares for small and Medium Enterprises these systems manage, give feedback to all members of the enterprise, generate reports to members, central secure database structure that organize that organization. </p>
+      </div>
+      <div class="col-md-4">
+        <img src="../imgs/sms.png">
+        <h4 class="service-heading">School Management Systems</h4>
+        <p class="text-muted">NATMA TECH design next generation web based or desktop school systems which is helpful to Students,Teachers,Admin and Parent.These systems involve Automation of School Office Administration, Central secure database structure that organize,student feedback systems,student attendance,customized Report Generation and Exam result, student perfomance, fees due dates to parents.</p>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+</section>
 <!-- Footer -->
 <footer>
   <div class="container">
