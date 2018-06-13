@@ -8,7 +8,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
       
-        <title>Natma Tech</title>
+        <title>High Hub</title>
       
         <!-- Bootstrap core CSS -->
       
@@ -36,7 +36,7 @@
 
     <a class="navbar-brand" style="font-family:Helvetica;" href="#page-top">
       <img src="../imgs/logo.png" class="img-responsive" style="height: 60px; width: 70px;">
-      Natma Tech Company LTD</a>
+      HIGH HUB COMPANY LTD</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fa fa-bars"></i>
@@ -279,7 +279,7 @@
       <div class="col-md-4">
         <img src="../imgs/intergrate.jpg">
         <h4 class="service-heading">System integration</h4>
-        <p class="text-muted">NATMA TECH system integration services bring together voice, data and video communications into one system and ensuring that they all function together as one system. This results in better productivity and cost-efficiency of your stuff</p>
+        <p class="text-muted">HIGH HUB system integration services bring together voice, data and video communications into one system and ensuring that they all function together as one system. This results in better productivity and cost-efficiency of your stuff</p>
       </div>
       <div class="col-md-4">
         <img src="../imgs/ecommace.png"  class="img-responsive img-rounded">
@@ -292,12 +292,12 @@
       <div class="col-md-4">
         <img src="../imgs/sme.jpg">
         <h4 class="service-heading">Small and Medium Enterprise Applications</h4>
-        <p class="text-muted">NATMA TECH develop Softwares for small and Medium Enterprises these systems manage, give feedback to all members of the enterprise, generate reports to members, central secure database structure that organize that organization. </p>
+        <p class="text-muted">HIGH HUB develop Softwares for small and Medium Enterprises these systems manage, give feedback to all members of the enterprise, generate reports to members, central secure database structure that organize that organization. </p>
       </div>
       <div class="col-md-4">
         <img src="../imgs/sms.png">
         <h4 class="service-heading">School Management Systems</h4>
-        <p class="text-muted">NATMA TECH design next generation web based or desktop school systems which is helpful to Students,Teachers,Admin and Parent.These systems involve Automation of School Office Administration, Central secure database structure that organize,student feedback systems,student attendance,customized Report Generation and Exam result, student perfomance, fees due dates to parents.</p>
+        <p class="text-muted">HIGH HUB design next generation web based or desktop school systems which is helpful to Students,Teachers,Admin and Parent.These systems involve Automation of School Office Administration, Central secure database structure that organize,student feedback systems,student attendance,customized Report Generation and Exam result, student perfomance, fees due dates to parents.</p>
       </div>
     </div>
   </div>
@@ -328,7 +328,7 @@
                 <h4 class="subheading">Our Humble Beginnings</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">Natma tech was started its operation in 2010 where its first release and registered as an independent company in 2017 with the release of a desktop application called celliot</p>
+                <p class="text-muted">HIGH HUB was started its operation in 2010 where its first release and registered as an independent company in 2017 with the release of a desktop application called celliot</p>
               </div>
             </div>
           </li>
@@ -342,7 +342,7 @@
                 <h4 class="subheading">Transition to Full Service</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">Natma tech initialy begun with development of desktop apps and system development, now the company transit to full It services including security, computer network maintenance, networking and consultations</p>
+                <p class="text-muted">HIGH HUB initialy begun with development of desktop apps and system development, now the company transit to full It services including security, computer network maintenance, networking and consultations</p>
               </div>
             </div>
           </li>
@@ -357,7 +357,7 @@
                 <h4 class="subheading">Phase Two Expansion</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">Natma tech company is based in provision of quality services and full time support to its clients confidently mainly on working on customers suggestions and reports.</p>
+                <p class="text-muted">HIGH HUB company is based in provision of quality services and full time support to its clients confidently mainly on working on customers suggestions and reports.</p>
               </div>
             </div>
           </li>
@@ -387,7 +387,7 @@
         <div class="col-sm-4">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-            <h4>Masoud M. Masoud</h4>
+            <h4>Juma Omary</h4>
             <p class="text-muted">CEO</p>
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
@@ -436,7 +436,7 @@
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
             <h4>Feisal Mombo</h4>
-            <p class="text-muted">Business Manager</p>
+            <p class="text-muted">Front-end Developer</p>
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
                 <a href="#">
@@ -595,13 +595,11 @@
         <div class="col-lg-12 text-center">
           <h2 class="section-heading">Contact Us</h2>
           <div class="" style="color: white;">
-           <p> P.O. BOX 1196,</p>
+           <p> P.O. BOX 20521,</p>
            <p> Dodoma.</p>
-           <p> Phone: +255766242951</p>
-           <p> Phone: +255786447520</p>
-           <p>info@natmatech.co.tz </p>
-           <p> PLOT No. 73 BLOCK F Kisasa B Center.</p>
-           <p>Dar es Salaam road near Martin Luther School or Nesuda Dispensary opposite Maria Dematias</p>
+           <p> Phone: +255 654197535</p>
+           <p> Phone: +255 684456287</p>
+           <p> PLOT No.  BLOCK 6 F 5 B CIVE Informatics.</p>
          </div>
        </div>
      </div>
@@ -653,7 +651,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <span class="copyright">Designed By Natma Tech &copy copyright {{ date('Y') }}</span>
+        <span class="copyright">Designed By High Hub &copy copyright {{ date('Y') }}</span>
       </div>
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
