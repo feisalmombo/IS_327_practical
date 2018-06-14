@@ -8,15 +8,20 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>High Hub-@yield('title') </title>
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
 </head>
-<body>
-    <div id="app">
+<body style="background-image: url('/imgs/login.jpg');">
+    <div id="app"> 
+    @if(Auth::guest())
+
+    @else  
+
         <nav class="navbar navbar-default navbar-static-top">
-            <div class="container">
+            <div class="container" >
                 <div class="navbar-header">
 
                     <!-- Collapsed Hamburger -->
@@ -44,11 +49,11 @@
                         <!-- Authentication Links -->
                         @if (Auth::guest())
                             <li><a href="{{ route('login') }}">Login</a></li>
-                            <li><a href="{{ route('register') }}">Register</a></li>
+                           
                         @else
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-                                    {{ Auth::user()->name }} <span class="caret"></span>
+                                    {{ ucfirst( Auth::user()->name )}} <span class="caret"></span>
                                 </a>
 
                                 <ul class="dropdown-menu" role="menu">
@@ -70,8 +75,20 @@
                 </div>
             </div>
         </nav>
+        @endif
+        <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-2">
+               @include('partials.sidebar') 
+            </div>
 
-        @yield('content')
+            <div class="col-sm-10">
+            @include('msgs.success')
+            
+                 @yield('content')
+            </div>
+        </div>
+        </div>
     </div>
 
     <!-- Scripts -->
